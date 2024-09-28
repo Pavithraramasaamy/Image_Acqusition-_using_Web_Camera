@@ -27,8 +27,8 @@ End the program and close the output video window by pressing 'q
 
 ## Program:
 ``` Python
-### Developed By:Pavithra R
-### Register No:212222230106
+Developed By:Pavithra R
+Register No:212222230106
 ```
 ## i) Write the frame as JPG file
 ```py
